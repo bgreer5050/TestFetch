@@ -12,7 +12,7 @@ namespace TestMyGitSkills
 
             Console.WriteLine("We wrote from DoSomething.Write");
             Console.WriteLine("We wrote from DoSomething.Write2");
-
+            Console.WriteLine("Commit a7a8 is in.");
 
         }
     }
