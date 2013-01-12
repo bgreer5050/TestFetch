@@ -14,6 +14,7 @@ namespace TestMyGitSkills
             Console.WriteLine("We wrote from DoSomething.Write2");
             Console.WriteLine("Commit a7a8 is in.");
             Console.WriteLine("Commit 5151f is in.");
+            Console.WriteLine("Issue fixed");
 
         }
     }
