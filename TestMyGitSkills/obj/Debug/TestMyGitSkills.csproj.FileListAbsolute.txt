@@ -1,0 +1,5 @@
+C:\Users\Bill\Documents\Visual Studio 2012\Projects\TestMyGitSkills\TestMyGitSkills\bin\Debug\TestMyGitSkills.exe
+C:\Users\Bill\Documents\Visual Studio 2012\Projects\TestMyGitSkills\TestMyGitSkills\bin\Debug\TestMyGitSkills.pdb
+C:\Users\Bill\Documents\Visual Studio 2012\Projects\TestMyGitSkills\TestMyGitSkills\obj\Debug\TestMyGitSkills.csprojResolveAssemblyReference.cache
+C:\Users\Bill\Documents\Visual Studio 2012\Projects\TestMyGitSkills\TestMyGitSkills\obj\Debug\TestMyGitSkills.exe
+C:\Users\Bill\Documents\Visual Studio 2012\Projects\TestMyGitSkills\TestMyGitSkills\obj\Debug\TestMyGitSkills.pdb
