@@ -16,6 +16,8 @@ namespace TestMyGitSkills
             Console.WriteLine("Commit 5151f is in.");
             Console.WriteLine("Issue fixed");
 
+            Console.WriteLine("fixed footer in iss1");
+
         }
     }
 }
